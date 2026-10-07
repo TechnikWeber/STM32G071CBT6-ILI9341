@@ -9,3 +9,7 @@ Known issues:
 ILI9341 Footprint doesnt match!
 
 <img src="https://github.com/user-attachments/assets/eac0f761-1974-4db9-a4fc-650ef7e3adc8" width="300">
+
+## License
+
+[MIT](LICENSE).
