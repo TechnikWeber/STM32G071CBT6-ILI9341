@@ -20,7 +20,7 @@ demo firmware.
 | STM32G071CBT6 | Cortex-M0+ MCU, 128 KB flash, 36 KB RAM |
 | 16 MHz and 32.768 kHz crystals | Main clock and RTC |
 | AMS1117-3.3 | 5 V → 3.3 V regulator |
-| ILI9341 header (14-pin) | The display module, SPI |
+| ILI9341 headers | The display module (SPI) |
 | Tag-Connect TC2030 footprint (DEBUG) | SWD programming and debugging — see the [STDC14-to-TC2030 adapter](https://github.com/TechnikWeber/STDC14-to-TC2030-IDC) |
 | 3-pin headers | UART (RX, TX, GND) and power (5 V, 3.3 V, GND) |
 | RESET, BOOT0 and USER buttons, red LED | |
